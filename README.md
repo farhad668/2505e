@@ -1,3 +1,5 @@
 # chup
 this is first repository.<hr>
-farhad
+farhad.<hr>
+Ali.<hr>
+Khan.<hr>
